@@ -9506,11 +9506,13 @@ xclip
 }
 
 .mainmenu-nav .mainmenu>li>a:hover, .mainmenu-nav .mainmenu>li>a.active {
-  color: var(--color-primary) !important;
+  /* color: var(--color-primary) !important; */
+  color: #fff !important;
 }
 
 .mainmenu-nav .mainmenu>li.current>a {
-  color: var(--color-primary) !important;
+  /* color: var(--color-primary) !important; */
+  color: #fff !important;
 }
 
 .mainmenu-nav .mainmenu li {
@@ -10139,7 +10141,7 @@ xclip
   position: absolute;
   content: "";
   left: 0;
-  background: var(--color-primary);
+  background: #fff;
   width: 0;
   height: 2px;
   bottom: 0;
