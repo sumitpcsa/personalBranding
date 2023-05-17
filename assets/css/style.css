@@ -201,6 +201,11 @@ position: relative;
   border-bottom: 10px solid #fff
 }
 
+#projects .container div:nth-child(2) img {
+  width: 370px;
+  height: auto;
+}
+
 /* Sumit Pandey Classes Ends  */
 
 /*-- Variables --*/
